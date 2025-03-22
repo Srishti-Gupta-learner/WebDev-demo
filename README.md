@@ -1,2 +1,3 @@
 # WebDev-demo
-This is my first git repo
+This is my first git repositary.
+First step to web dev.
